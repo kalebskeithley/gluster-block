@@ -9,9 +9,9 @@
 */
 
 
+# include  "config.h"
 # include  "common.h"
 # include  "block.h"
-# include  "config.h"
 
 
 # define  GB_CREATE_HELP_STR  "gluster-block create <volname/blockname> "\
